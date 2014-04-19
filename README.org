@@ -9,6 +9,6 @@
 #+END_EXAMPLE
 ** restore
 #+BEGIN_EXAMPLE
-knights_of_pen_and_paper_backuper restore
+./knights_of_pen_and_paper_backuper restore
 #+END_EXAMPLE
 
