@@ -1,0 +1,7 @@
+* compile
+  1. use brew to install libimobiledevice and others requirements
+  2. use qtcreator to open the .pro file and build the project
+
+* usage
+** ./knights_of_pen_and_paper_backuper backup
+** knights_of_pen_and_paper_backuper restore
