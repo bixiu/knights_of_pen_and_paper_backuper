@@ -3,5 +3,12 @@
   2. use qtcreator to open the .pro file and build the project
 
 * usage
-** ./knights_of_pen_and_paper_backuper backup
-** knights_of_pen_and_paper_backuper restore
+** backup
+#+BEGIN_EXAMPLE
+./knights_of_pen_and_paper_backuper backup
+#+END_EXAMPLE
+** restore
+#+BEGIN_EXAMPLE
+knights_of_pen_and_paper_backuper restore
+#+END_EXAMPLE
+
